@@ -1,0 +1,415 @@
+Legend:
+* : fixed
+- : removed
+! : changed
++ : added
+
+v.0.4.6 (25.02.2011)
++ added Help file (not yet complete)
++ DLL version: added flags for all JPEG chroma settings
+* DLL version: the default chroma for RIOT_SaveToFile is now "medium" instead of "low"
+* Batch mode: fixed a bug when using a bat file as external PNG optimizer and @echo off is not on the first line.
+  This problem does not occur in normal mode.
+* DLL version: fixed some sliders going nuts when pressed during tooltip display
+* fixed preview executed twice when asked to resample big images
+* Batch settings "Keep original date/time" and "Report file size changes" are now remembered at startup
+* if "Report file size changes" is checked and the selected external optimizer is not installed the reported size
+  is -100% or ~ -99.9%. Fixed !
+* fixed error running same batch twice with external optimizer and "Keep original date/time is checked
+* file is now set as modified only if OptimizePNG is successfully executed
+* fixed related issues reported in the RIOT forum, with the external PNG optimizer implementation
+* fixed a memory leak in FileIsWritetable
+! avoid some file locking problems
+
+v.0.4.5 (12.01.2011)
+* fixed a bug with Paste from clipboard. Pasted images were shifted a few pixels.
+* fixed a bug in the DLL version with the toolbar containing rotate, resize, compress to size, etc.
+  The toolbar should be enabled after successful image loading from the host application.
+
+v.0.4.4 (19.10.2010)
+- fixed an access violation at startup in the DLL version, which occurs only in Vista (possible Windows 7).
+The exception is caught when reading the configuration data.
+- the Batch window is not displayed anymore if the images sent as parameters are not supported. The previous
+behavior was to show the window with no files loaded.
+- removed optipng -o5 external PNG optimizer preset and added advpng preset by default
+
+v.0.4.3 (16.10.2010)
+- fixed Vista (possible Windows 7) bug with not being able to type in the batch dialog some characters used as shortcuts (R, L, etc).
+This occurs only if the program is launched with at least 2 files as parameters which results in the Batch window being opened at startup.
+- corrected a name in the About->Credits section
+- fixed some memory leaks in the batch dialog related to the FileList
+- optimized startup sequence
+- updated FastMM to version 4.97
+- updated vclfixpack to version 1.4 (some fixed which are not needed were removed)
+- fixed a crash in FreeImage when reading a JPEG with corrupted XMP data
+- fixed loading of JPEG images with a not null but zero length IPTC segment (bad files produced by Picasa)
+- fixed a crash in FreeImage when loading a PSD with a CMYK embedded thumbnail
+- other minor modifications
+
+v.0.4.2 (01.09.2010)
+- refactored resize function
+- allowed specifying just width or height in batch resize
+- improved PNG loading: added support for binary transparency in all bit depths,
+refactored the entire Load function
+- fixed ICO transparency handling
+- fixed a bug with applying properly the settings using the keyboard
+- updated libraries to LibPNG 1.4.3, OpenEXR 1.7.0, OpenJPEG 1.4.0 (SVN patch 2010-04-16),
+LibRaw 0.10-Beta3, LibTIFF 3.9.4 (CVS patch 2010-07-13)
+- RAW plugin: actual RAW bit depth is now displayed
+- Fixed loading of Pentax KX RAW images
+- Minor improvements for the EXR and RAW plugins
+- the plugins from RAW + HDR package now run without SSE2 CPU extensions
+- greyscale conversions now use the Rec. 709 formula
+- new standard conversion from RGBF(A) high dynamic range formats allows to
+import such images with no tone mapping (gamma correction applied)
+- fixed bug with Report file size in Batch when using an external optimizer
+- improved TIFF and PSD loading
+- small performance improvement in saving JPEG
+- fixed bug with non existent files added in Batch if typed in the open dialog
+- refactored the internal function ConvertToCommon
+- fixed automatic scrolling to the item on which Batch is working (Vista)
+- fixed a regression bug with losing resolution, ICC profile and background in some situations
+- added Credits in About dialog, other minor modifications
+- other clean-ups and improvements
+
+v.0.4.1
+- fixed some issues with the external PNG optimizer implementation
+	
+	(replace {IMAGE_FILE} parameter is done only once. fixed;
+	a custom PNG is not remembered at program restart. fixed;
+	delete/configure buttons should not be disabled after adding an external optimizer. fixed;
+	modifying an external optimizer name creates orphan records. fixed. added checks for duplicate tool names;
+	scripts as external optimizersnot working out-of-the-box. fixed)	
+	
+- bugfix: "Remove selected" button from batch mode disables when a multiple selection is made with the mouse.
+The keyboard selection worked. Fixed !
+- fixed some issue related to automatic preview mode disabled.
+- Preview button now disabled when "AUtomatic preview" is on
+- improved performance of conversion functions from transparent indexed images
+- changed shortcuts for "Fit in window" ( now / )  and "Actual size" (now * ). These simpler ones should increase productivity
+- changed batch settings by adding an "Apply" button. to be more intuitive
+- fixed an unwanted behavior with selecting and option without actualy putting a check next to it, which causes that option to apply.
+- modified an error message to specify that both dimensions are required for batch resize
+
+v.0.4.0 (beta) -  19 april 2010
+- new: the much requested Batch Optimizer (optimize multiple files with a few clicks)
+- new: Basic image adjustments (Adjust brightness, contrast, gamma, invert colors along with the optimization process)
+- new:  Open even more image types
+The new open plugin architecture lets you extend the number of recognized formats
+The RAW + HDR plugin collection adds support for opening RAW camera images from all major manufacturers, OpenEXR and HDR images.
+- added Macintosh PICT image format support
+- Improved PNG compression (The internal PNG "best compression" was substantially improved.)
+- new: ability to easily use well known external PNG optimizers like optiPNG, PNGOut.
+Also, any other tools can be added for use (for example AdvanceCOMP, pngCrush, etc).
+- option to apply by default the fastest PNG (ZLIB) compression when "Best compression" is unchecked
+(speeds some things up, like performing quantization, removing metadata, etc)
+- updated libraries to LibTIFF 3.9.2, zlib 1.2.4, libpng 1.4.1 and OpenJPEG 1.3.0
+- main form position is now remembered when "Save settings on exit" is enabled
+- added decoding support for the old and outdated JPEG-in-TIFF 6.0 format in TIFF
+- fixed loading of JNG with progressive-JPEG formats
+- fixed loading of TGA with a corrupted RLE count
+- drag & drop multiple files support (opens the batch optimizer)
+- command line option: when multiple files are specified, the batch dialog is showed with the supported files added to the list
+- comments/textual data from other formats are now successfully transferred to JPEG comment
+- optimized math functions (faster zooming)
+- replaced some code snippets with faster and smaller equivalents
+- the file filter for the open dialog is now built dynamically based on available internal and external plugins with read support
+- small bugfixes for showing the compress to size function enabled or not
+- other small fixes and improvements
+
+v.0.3.5 - 27 oct. 2009
+- bugfix: Save image fails in some cases. It occurs only when the image is opened by command line or drag & drop and "Show dialog on Save"
+is disabled (default) - the original image is not updated (overwritten).
+The image is saved in fact in the wrong folder (current folder). Fixed !
+- fixed handling of PSD files with a non zero file header reserved member
+- fixed TIF module crashing on a malformed TIFF-JPEG compressed image
+- fixed MNG module crashing on some old mng images
+- metadata: added new 'non standard' Exif tags (HostComputer, Rating, RatingPercent) -  These tags are not part of the Exiv v2.2
+specifications but are often loaded by applications as Exif data
+- added loading of Exif orientation tag in TIFF module
+- other minor fixes
+
+v.0.3.4 - 10 oct. 2009
+- DLL version: fixed comdlg32 access violation when using the save button in Vista 32bit SP2 (not tested on Vista 64).
+- new fullscreen view
+-added support for all Photoshop supported color modes to PSD loading (with the exception of 32-bit float RGB)
+- improved speed for jpeg encoding & decoding by 17% (using SIMD optimized code)
+- improved speed of zlib compression (used for PNG) by 30% (using ASM optimized code)
+- Bugfix: Riot.ini is in the Riot folder with write permissions, but Riot
+creates and uses Application Data folder. Fixed !
+- The Save button is now context sensitive - meaning it is automatically disabled and enabled when needed (ex: disabled after
+Save to see the operation completed succesfully, disabled if the autoamtic preview is not active, etc)
+- added option to show the "Save As" Dialog on the "Save" action. Default false, requests only replace confirmation if file exists or
+shows the dialog if the file does not exist.
+- the last used save folder is now stored and used each time the user presses "Save as"
+- DLL version: the image resolution (dpi) is now imported directly from the DIB. Benefit: When used as irfanView plugin RIOT can keep now
+the resolution without the need to activate import ancillary info.
+- improved exception handling when saving a file
+- flicker reduced or eliminated on most controls
+- fixed some minor issues and potential access violations
+- updated libraries libtiff (3.9.1), libpng (1.2.40), FreeImage (3.13.0 and from official CVS)
+- moved shortcuts from menu to global actions to make them usable in fullscreen
+- added new hidden configuration variable for use within Riot.ini: UseLatestCommonDialogs (0 disabled [default], 1 enabled).
+When enabled Riot shows the new Vista dialogs. When disabled the old XP style dialogs are shown in Vista.
+Note that the IrfanView plugin gives access violations when using the new dialogs.
+- DLL version: fixed black background for icons in some rare cases (no manifest in calling app)
+- other minor improvements
+
+v.0.3.3 - 13 may 2009
+- plugins: fixed some memory leaks (especially noticeable in batch operations with RIOT_SaveToFile/RIOT_SaveToFile_U).
+Set file size function from IrfanView was affected by this problem.
+- in the previous version of FreeImage bundled with RIOT v0.3.2 the support for different TIFF compression types was ommited. Now fixed.
+- fixed some invalid pointer operations
+- faster startup; ini file is read at once and stored/updated in memory
+- speed optimizations for preview; fixed some bugs with automatic preview invoked more than once in some cases
+- bugfix: rotating 4bit images now works
+- cbanged the general font to an antialiased one (Trebuchet MS)
+- minor corrections for display on 120 dpi font setting
+- The ini file was not read at startup in some functions and that made the program ask for resample each time.
+Function affected from the plugin version were: RIOT_LoadFromFile/RIOT_LoadFromHBITMAP.
+In the standalone version opening images using the command line or dropping files onto the program icon in explorer. 
+- bugfix: File->Exit or pressing Esc terminates the application but does not save settings. Fixed !
+- bugfix: after modifying Show Captions for main toolbar buttons the image is now centered.
+- plugins: if file sent as parameter does not exist or left blank Original File Info is not updated (occurs in rare situations)
+
+v.0.3.2
+- plugin: fixed a problem in 0.3.1 with the IrfanView plugin when retrieving configuration settings. An access violation error was thrown.
+- configuration data is now stored in the current user's Application Data folder.
+If Riot.ini is found in the Riot folder, it is used only if the current user has write permissions for it.
+(this makes it compatible with putting Rot in Program Files for Vista)
+ 
+v.0.3.1
+- 4bpp output now supported (automatically chosen when quantizating to less than 16 colors)
+- keep transparency for 1 and 4 bit PNG
+- added Save button for quick saving over the original. Save as is still there for choosing another folder
+- plugins: RIOT_SaveToFile (function used by IrfanView "Set file size") can keep now metadata (exif, iptc, comments, etc).
+To operate in IrfanView it needs a new version of IrfanView (next after 4.23)
+- upgraded libpng to 1.2.35
+- some optimizations in FreeImage (from the official CVS)
+- plugins only: fixed some object destruction bugs causing unexpected behaviour (usually access violations).
+This bug especially affects Compress to size.
+- plugins: improvements in file info display from the title bar
+(don't display size twice when DIB size equals original image size from file).
+- plugins: for unsupported images file info was not updated. In this situation it shows BMP as format
+
+v.0.3.0 (beta) 
+- new/usability: interesting interface changes including new layout, new icons 
+- new/usability: automatically store last used settings on exit in ini file 
+- new/usability: check for updates automatically every month on program startup or manually 
+- new/usability: in place compare (allows to display the original image over the optimized image to see small pixel changes as long
+as you keep this button pressed) 
+- improvement/usability: The metadata options are moved from the format specific options to a separate tab now 
+- improvement/usability: separate tab for the new transparency options (keep, blend/composite, set opaque).
+The program now properly handles alpha transparency composition to 24bit 
+- new/usability: options dialog 
+- plugins: allows user to import ancillary data (transparency, background color, metadata, ICC profile, image resolution)
+from original filename when the image is sent as DIB. The ability to import transparency from original file is offered for
+IrfanView which does not send 32bit DIBs. Transparency is imported only when DIB and original file have the same size. 
+- new/usability: auto-rotate images according to EXIF info 
+- new/usability: option to show/hide button captions from the main toolbar 
+- new/usability: the user can choose the zoom step percent 
+- new/usability: scrollbars now make use of the larger step when clicking on the empty space between the arrow buttons and she sliding box 
+- improvement: preserve transparency (GIF only) when using Dither for 1bit images based on higher bpp transparent images.
+(even if transparency is not shown yet for this kind of image) 
+- plugins: when ancillary data imported, the window title offers more detailed info about the source image. 
+- improvement: added additional file types for loading (DirectDraw Surface (*.dds)|*.dds|Dr. Halo (*.cut)|*.cut|
+Raw Fax format CCITT G3(*.g3)|*.g3|Amiga IFF (*.iff, *.lbm)|*.iff;*.lbm|Commodore 64 Koala format (*.koa)|*.koa|
+Portable Graymap (*.pgm)|*.pgm) 
+- improvement/usability: added missing text hints 
+- improvement/usability: added warning when an incompatible FreeImage library is used 
+- usability: automatic preview checkbox moved into the view menu 
+- added two more links into the help menu (News and Optimization Tips) to article categories from the official website 
+- fixed a problem caused by olympus Type 2 EXIF maker notes 
+- optimizations in FreeImage, size reduced 
+- added small presentation of my web services (My Business button)
+
+
+v.0.2.1 (26 nov 2008) (stable)
+- added all corrections from 0.1.13 until 0.1.15 to fix bugs that affected 0.2
+- JPEG processing speed improvement by 25%.
+This is done using SIMD optimized instructions (MMX, SSE,SSE2, 3DNow!).
+- overall speed optimizations
+
+v.0.2
+- full unicode support
+- added option to keep/remove embedded JPEG EXIF profile
+- plugins: now fully compatible with ansi2unicode plugin from IrfanView
+- plugins: new Unicode-enabled functions
+- minor changes in about dialog
+- added PNG preview in open dialog
+- plugins: Lite version speed-up in drawing. Memory usage decreased (like in extended now)
+
+v.0.1.15 (20 nov 2008) (stable)
+- plugins bugfix: fail to open an unsupported image type even if it was sent as DIB and the image exists
+The image type is displayed now in the original file info only if it is not BMP (avoid strange behaviour when image type not supported).
+- bugfix: fit in window problems (again) fixed !
+- minimum and maximum zoom constraints
+- eliminated the nasty effect on image moving
+- improved zoom accuracy
+
+v.0.1.14
+- fixed some small resize problems in Fit in window. The picture margins were not shown.
+Fixed !
+
+v.0.1.13
+-plugins bugfix: in RIOT_saveToFile (affects IrfanView Save dialog->Set file size).
+When no flags are sent (greyscale and color subsampling are not selected) the file is
+forced to be saved as progressive
+-plugins bugfix: in RIOT_saveToFile - compress to size uses the last tested settings and this usually leads to inaccuracy.
+-plugins: RIOT_saveToFile (compress to size) speed improved
+
+v.0.1.12
+-bugfix: ICC profile is lost after Rotate. Fixed.
+
+v.0.1.11 (stable candidate #8)
+- bugfix: plugin - IrfanView sends a filename even if file does not exist (like Clipboard01).
+This resulted in an "Error opening file".
+Added FileExists check into RIOT to overcome this problem. Fixed !
+- bugfix: Paste from clipboard and plugin function LoadFromHBITMAP gives "Error opening file" because no format was set. Fixed !
+
+v.0.1.10 (stable candidate #7)
+-improvement/bugfix: Transparency is now fully kept regardlessof bit depth.
+Color quantization now does not lose transparency. Alpha transparency can be converted to indexed transparency.
+-improvement: drastically decreased memory usage especially for RIOT Full:
+	* DIB size + compressed image size in idle if DIBs fit in the video card memory, more otherwise
+	* up to 3xDIB size when processing
+	(Note that OpenPictureDialog preview does not free his image in memory until another preview is made.
+With open by drag & drop no image preview is stored in memory)
+- added RGBF image support for TIFF
+- added Vista icons support (very few viewers can open them now !)
+- added IPTC support for RIOT Lite
+- update FreeImage engine to 3.11.0 (FreeImage now uses libtiff (3.9.0), libpng (1.2.29), libMNG (1.0.10) and OpenJPEG (1.3.0)) 
+- FreeImage.dll is now compatible with the official release. Some minor fixes were made in the RIOT version of the DLL, though
+- bugfix: ICC profile was lost after Rotate. Fixed.
+-bugfix: on drop file the current file name and the filesize were overwritten even if loading was not succesfull
+(unknown type or unsupported)
+-Save As speed-up
+-compiler optimizations: optimized instruction set for Pentium Pro
+-several optimizations and code cleanup
+v.0.1.10.2
+-plugin bug: when invoking RIOT_LoadFromDIB picture format was always seen as BMP. Fixed!
+-plugins: several modifications for bmp loading
+-full version plugin bugfix: RIOT_LoadFromDIB always shows -1 as filesize. Fixed.
+-fixed a known FreeImage problem with saving GIFs
+
+v.0.1.9 (stable candidate #6)
+-extended image support: add full support for uncommon images like 64 bit transparent PNGs (RGBA16,RGB16,RGBF,RGBAF,
+also complex, double, float, integer types)
+-speed-up for GIF processing
+-improvement: transparency from 1, 4 and 8 bit images is now preserved when saved as true color PNGs
+
+v.0.1.8 (stable candidate #5)
+-bugfix: after resample or after copy from clipboard the filesize was -1 bytes. Fixed !
+-bugfix: after Copy from clipboard preview was invokes twice. Fixed !
+
+v.0.1.7 (stable candidate #4)
+-after resample image was not centered. Fixed
+-Fit to window is now applied on open
+-added option in View menu: Fit in window only big images.
+-change resample form tab order
+-minor code cleanup
+-fixes in Fit to Window
+-actual view is applied after resample
+-drawing speed ups (up to 5 times faster displaying of optimized images)
+-changed about box
+-decreased memory usage.
+-flicker effect on zoom, moving or displaying eliminated
+-new ckeckbox for JPEG and PNG: remove embedded ICC profile
+-MetadataHandler rewrote
+-dragging fix when the mouse cursor is over the other image
+-speed optimizations for Riot Full. Lite version is slightly slower than the full version.
+-compiler optimizations
+-RIOT full is now capable of displaying jpeg and bmp in the small preview area of the open dialog
+Lite version supports only bmp preview
+-removed emf and wmf from the supported file types for now
+-on high resolution images (>=4 MegaPixels) the user is asked if he wants to resize.
+This comes as a loading speed-up aid, as most of users need to resample anyway.
+-program status (loading, processing, displaying, etc) is displayed now in the status bar
+-fixed a bug when images with a BPP other than 1,8, 24 and 32 cannot be rotated
+-small display speedups after rotate, flip. Image loading speed-up for BPP smaller than 24
+-fixes for paste from clipboard
+-metadata is now always kept
+-default resample filter is now Catmull Rom (very good results and decent speed)
+-fixed some memory leaks in internal DIB conversion that affected Paste also
+-added Cancel button for Resample dialog
+-modified DLL interface (RIOT_LoadFromDIB). functions added (RIOT_SaveToFile, GetPlugInInfo)
+removed RIOT_LoadFromHBITMAP from Lite DLL. Added function aliases without prepended underscore (MSVC standard)
+-Compress to size now supports both decimal separator (comma and dot)
+-added flags support to RIOT_SaveToFile
+
+v.0.1.6 (stable candidate #3) 
+-known metadata can now be removed or kept by model
+(unknown or unsupported metadata is automatically dropped - exif is dropped)
+Lite version supports only choosing to keep comments. Other metadata is removed
+-image dragging improvements
+-minimum form size is now 681x389
+-on form resize the image is centered
+-default Filename in Save Picture Dialog is now the opened filename without extension
+if the source image is a DIB from memory (loaded from Clipboard, Resampled) the default Save as filename is "Untitled"
+-the allocated DIBs are freed now OnDestroy, not OnClose
+
+minor fixes:
+
+-default tooltip HidePause is now 7 seconds
+-kilobyte (1024 bytes) symbol is now KiB, as IEC recommends
+-removed semicolon from original image size label
+-right-click on image does not show a sizeAll cursor anymore
+large dpi font size bugfixes:
+-form is now resized for large screen dpi (>96) to fit controls
+-scrolling areas were shown with different sizes. Now they are equal
+-top label about optimized file (ex: 24 bit JPEG...) position is now correctly calculated
+-first status bar panel (with zoom display) resized to fit text with 120dpi font settings
+-minor changes in DLL interface
+
+v0.1.5 (stable candidate #2)
+-scrollboxes are now dragging areas. Image is not allowed to be dragged outside the dragging area.
+Top left and bottom right points cannot pass the center point
+-new Esc shortcut for exit
+-Fit in window improvements, fixes
+-minor code cleanup
+-added link to official website in the menu and in the about box
+
+
+v.0.1.4 (stable candidate #1)
+-changed main icon
+-files can now be opened by passing them as command line parameters
+-some menu items (from View) were not disabled by default (fixed), and enabled when necessary
+-improved zoom: center images in scrollbox by default; when the image is moved,
+the zoom follows what's in the center point of the scrollbox.
+-after opening images are resized 1:1 now by default
+-improved Convert from non-standard type handling when fails
+-bugfix: size in KB was formatted wrong for decimals with leading zeros. ex: 99 bytes was formated 0.9 KB, not 0.09 KB. Fixed!
+-transparent files are now handled properly (8bit and 32bit supported) - works only on initialy transparent images.
+Does not work with quantization. Transparent images are displayed against a checkerboard background.
+-added "Compress to size" for JPEG, GIF and PNG
+-added status bar with zoom percent information. The text "transparent" is shown in the status bar for transparent files.
+
+v.0.1.3
+-fixed some memory leaks when opening new files
+-added support for non standard type images (up to 128 BPP, integer and floating point. EX: hdr images, 16 bit grayscale, etc)
+-added tone mapping option for BPP >= 48 bit. An Adaptive logarithmic mapping algorithm is used (Drago'2003)
+-the opened filename is shown in the title bar now. For DIBs in memory a special message is shown
+-added Ctrl + F shortcut for Fit in window
+-decreased top label sizes for 120 DPI setting compatibility
+-added HDR image type to the open dialog
+-hottrack type page control (provides visual feedback when mouse is over tab)
+
+v0.1.2
+-added jpeg chroma subsampling support (none,low 4:2:2,medium 4:2:0,high 4:1:1)
+-added Dual view option in View menu (disabled shows only the optimized version)
+-added edit fields for jpeg quality, gif and png number of colors, removed jpeg quality mask edit
+-modified labels (image size is in the bottom, expressed in kilobytes also)
+-improved error handling
+-improved settings changed handling on Save
+-code cleanup
+
+v0.1.1
+
+-improved zoom, more precise (still following center point),
+added zoom shortcuts (num +/-) and mouse scroll support (ctrl+scroll),
+cursor changes only when dragging
+-minor code cleanup
+-added main menu with shortcuts
+-added Paste from Clipboard option
+-preview, tabs are enabled by default
+-improved ImageLoader, accept drop files

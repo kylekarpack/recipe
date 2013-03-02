@@ -1,0 +1,398 @@
+@import url(http://fonts.googleapis.com/css?family=Bitter:700);
+
+@font-face {
+font-family: Proxima;
+src: url('proximanova-light-webfont.woff')/*,
+	 url('proximanova-light-webfont.ttf'),
+	 url('proximanova-light-webfont.svg'),
+     url('proximanova-light-webfont.eot')*/;
+}
+
+::selection {
+	background:rgb(143, 204, 235)
+}
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+body, html {
+	height:100%;
+	font-size:16px;
+}
+
+body {
+	font-family:Proxima, sans-serif;
+	background:#fcfcfc;
+}
+
+h1, h2, h3, h4, h5, h6, b, button {
+	font-family:'Bitter',Proxima,sans-serif;
+}
+
+#menu, #footer {
+	background:#439cc9;
+	width:100%;
+	color:#fff;
+	clear:both;
+	overflow:hidden;
+}
+
+#footer {
+	padding:1% 0;
+	margin-top:2%;
+}
+
+#footer div {
+	color:#fff;
+	padding:.5% 4%;
+	max-width:48%;
+	float:left;
+}
+
+#footer div#links a {
+	color:#fff;
+	text-decoration:none;
+}
+
+#footer div#links {
+	float:right;
+
+}
+
+.logo {
+	display:block;
+	float:left;
+	padding:.5% 0 .5% 5%;
+	max-width:30%;
+}
+
+#stats {
+	float:right;
+	padding:2% 5%;
+}
+
+#wrapper {
+	padding-top:2%;
+	width:90%;
+	margin:0 auto;
+}
+
+#main {
+	margin:2% auto 4%;
+	padding:4%;
+	background:#fefefe;
+	box-shadow:0 0 20px #ddd;
+	max-width:50%;
+	text-align:center;
+}
+
+input {
+	padding:2% 1%;
+	margin:2% 2% 2% 0;
+	min-width:35%;
+	border:1px solid #ccc;
+	box-shadow:0 0 5px #ccc;
+	font-size:16px;
+	max-width:100%;
+}
+
+input[type="text"] {
+	min-width:50%;
+}
+
+.ui-widget {
+	font-family:Proxima,sans-serif;
+	font-size:100%;
+}
+
+.ui-corner-all {
+	border-radius:0 !important;
+}
+
+li.ui-menu-item:hover {
+	color:#fff;
+	background:#439cc9 !important;
+}
+
+.recipe:hover {
+	box-shadow:0 0 15px #ccc;
+}
+
+.recipe.ui-selected {
+	background:#439cc9;
+	color:#fff;
+	box-shadow:0 0 15px #aaa;
+}
+
+.ui-selected img {
+	opacity:.8;
+}
+
+input[type="submit"]:hover, button:hover {
+	background:rgb(143, 204, 235)
+}
+
+input[type="submit"], button {
+	background:#439cc9;
+	color:#fff;
+	cursor:pointer;
+	-webkit-transition:.3s background ease-in-out;
+	transition:.3s background ease-in-out;
+	padding: 2.5% 3%;
+	margin:0 2%;
+}
+
+button.logout {
+	background:#4d4d4d;
+	float:right;
+	padding: 1% 2%;
+	margin:2% 3%;
+}
+
+#list {
+	margin:3% 0;
+	overflow:hidden;
+	padding-right:8%;
+	white-space:nowrap;
+}
+
+#list li {
+	float:left;
+	padding:1%;
+	margin:1.5%;
+	box-shadow:0 0 5px #ccc;
+	background:#f7f7f7;
+	display:inline;
+	-webkit-transition:background .5s ease-in-out, color .5s ease-in-out;
+	-moz-transition:background .5s ease-in-out, color .5s ease-in-out;
+	transition:background .5s ease-in-out, color .5s ease-in-out;
+}
+
+li {
+	list-style:none;
+	margin:2% 0;
+}
+
+#list li.sel {
+	background:#439cc9;
+	color:#fff;
+}
+
+#list li img {
+	vertical-align:middle;
+	padding-right:1%;
+	cursor:pointer;
+}
+
+.fail, .no {
+	color:#dd1111;
+	margin-top:2%;
+}
+
+.no {
+	margin-top:8%;
+	font-size:20px;
+	text-align:center;
+}
+
+.left {
+	width:40%;
+	float:left;
+}
+
+.right {
+	padding-bottom:2%;
+	width:60%;
+	float:left;
+}
+
+.clear {
+	clear:both;
+}
+
+#recipes {
+	margin-top:2%;
+}
+
+.recipe {
+	background:#fff;
+	box-shadow:0 0 12px #ddd;
+	width:30%;
+	float:left;
+	margin:10px 1%;
+	position:relative;
+	opacity:0;
+	overflow:hidden;
+	-webkit-transition:.3s background ease-in-out; 
+	-moz-transition:.3s background ease-in-out;
+	transition:.3s background ease-in-out;
+}
+
+@media only screen and (max-width: 1000px) {
+	.recipe {
+		width:48%;
+	}
+}
+
+@media only screen and ( max-width: 630px ) {
+	.left, .right {
+		width:100%;
+		float:none;
+	}
+}
+
+@media only screen and ( max-width: 420px ) {
+	.recipe {
+		width:100%;
+		margin:.5% 0;
+	}
+}
+
+.masonry,
+.masonry .masonry-brick {
+  -webkit-transition-duration: 0.7s;
+     -moz-transition-duration: 0.7s;
+      -ms-transition-duration: 0.7s;
+       -o-transition-duration: 0.7s;
+          transition-duration: 0.7s;
+}
+
+.masonry {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.masonry .masonry-brick {
+	opacity:1;
+  -webkit-transition-property: left, right, top, opacity;
+     -moz-transition-property: left, right, top, opacity;
+      -ms-transition-property: left, right, top, opacity;
+       -o-transition-property: left, right, top, opacity;
+          transition-property: left, right, top, opacity;
+}
+
+#recipes > li ul {
+	overflow:hidden;
+	padding:2% 6% 6%;
+}
+
+#recipes li img {
+	margin-bottom:2%;
+	max-width:101%; /*prevent 1px bug */
+}
+
+#recipes li .close {
+	background:#2d2d2d;
+	position:absolute;
+	top:0;
+	right:0;
+	color:#fff;
+	font-size:24px;
+	padding:.5% 2%;
+	line-height:1;
+	cursor:pointer;
+	text-align:center;
+}
+
+#recipes li a, #recipes a h1 {
+	text-decoration:none;
+	display:block;
+	font-size:20px;
+	font-weight:700;
+	color:#3d3d3d;
+	margin-top:2%;
+	text-align:center;
+	padding:0 3%;
+}
+
+.right button {
+	padding: 3% 6%;
+	background:orange;
+	font-size:18px;
+	float:left;
+}
+
+.right .load {
+	display:block;
+	margin:10% auto;
+	max-width:30%;
+}
+
+.right > span h2 {
+	float:left;
+	margin:3%;
+}
+
+.bugs .cat {
+	float:left;
+	max-width:30%;
+	padding-right:4%;
+	padding-bottom:4%;
+}
+
+.demo img {
+	max-width:100%;
+	display:block;
+	margin:auto;
+	box-shadow:0 0 20px #ccc;
+}
+
+.demo span {
+	font-family:monospace;
+}
+
+.demo p {
+	margin:1.5% 0;
+}
+
+.demo h1 {
+	margin-top:2%;
+}
+
+.demo hr {
+	background:#9d9d9d;
+	margin-top:2%;
+	height:2px;
+}
+
+#doc {
+	padding:1% 4%;
+	background:#fafafa;
+	border:1px solid #ccc;
+	margin-top:2%;
+	line-height:1.5;
+}
+
+#doc p {
+	margin:.5% 0;
+}
+
+#doc h3 {
+	margin-top:1.5%;
+}
+
+#doc h2 {
+	border-top:1px solid #ccc;
+	padding-top:1%;
+	margin-top:2%;
+}
+
+#doc .mono {
+	font-family:monospace;
+}
+
+#doc .req {
+	background:rgb(231, 231, 231);
+	padding:1% 2%;
+	font-family:monospace;
+	display:inline-block;
+	margin:1% 0;
+	max-width:97%;
+	word-wrap:break-word;
+}

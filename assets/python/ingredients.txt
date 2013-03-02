@@ -1,0 +1,1560 @@
+{"value": "acorn squash
+"},{"value": "active dry yeast
+"},{"value": "active quick rising dry yeast
+"},{"value": "active yeast
+"},{"value": "agave nectar
+"},{"value": "agave nectar or honey
+"},{"value": "air popped popcorn
+"},{"value": "aka miso paste
+"},{"value": "alkalized cocoa powder
+"},{"value": "all purpose flour
+"},{"value": "all purpose flour plus additional for sprinkling and rolling out dough
+"},{"value": "all purpose gold medal flour
+"},{"value": "all spice
+"},{"value": "allspice
+"},{"value": "almond
+"},{"value": "almond extract
+"},{"value": "almond flourmeal
+"},{"value": "almond meal
+"},{"value": "almond milk
+"},{"value": "almond paste
+"},{"value": "almond slicesslivers
+"},{"value": "almonds
+"},{"value": "aluminimum free baking powder
+"},{"value": "amaretti cookies
+"},{"value": "american cheese
+"},{"value": "anaheim chiles or jalapenos
+"},{"value": "anaheim or poblano peppers
+"},{"value": "ancho chile powder
+"},{"value": "ancho chili powder
+"},{"value": "andes peppermint chunks
+"},{"value": "anejo tequila
+"},{"value": "angel food cake
+"},{"value": "anise
+"},{"value": "ap flour
+"},{"value": "apple
+"},{"value": "apple butter
+"},{"value": "apple cider
+"},{"value": "apple cider or apple juice
+"},{"value": "apple cider vinegar
+"},{"value": "apple juice
+"},{"value": "apple pie filling
+"},{"value": "apples
+"},{"value": "applesauce
+"},{"value": "applewood smoked bacon
+"},{"value": "apply brandy or apple juice
+"},{"value": "apricot preserves
+"},{"value": "arborio rice
+"},{"value": "armagnac
+"},{"value": "arrowroot powder
+"},{"value": "artichoke hearts
+"},{"value": "artichoke pesto
+"},{"value": "artichokes
+"},{"value": "arugula
+"},{"value": "asparagus
+"},{"value": "asparagus spears
+"},{"value": "avocado
+"},{"value": "avocado chunks
+"},{"value": "avocado flesh
+"},{"value": "avocados
+"},{"value": "baby artichokes
+"},{"value": "baby arugula
+"},{"value": "baby back ribs
+"},{"value": "baby bella mushrooms
+"},{"value": "baby bok choy
+"},{"value": "baby golden potatoes
+"},{"value": "baby greens
+"},{"value": "baby portabella mushrooms
+"},{"value": "baby spinach
+"},{"value": "bacon
+"},{"value": "bacon  hickory
+"},{"value": "bacon drippings
+"},{"value": "bacon grease
+"},{"value": "bacon grease oil
+"},{"value": "bagel or pita chips
+"},{"value": "bagged spinach
+"},{"value": "baguette
+"},{"value": "baguette sliced and toasted in olive or butter
+"},{"value": "baileys irish cream
+"},{"value": "baking apples
+"},{"value": "baking chocolate squares
+"},{"value": "baking potatoes such as russet
+"},{"value": "baking powder
+"},{"value": "baking soda
+"},{"value": "balsamic vinegar
+"},{"value": "bamboo shoots
+"},{"value": "banana
+"},{"value": "bananas
+"},{"value": "barbecue sauce
+"},{"value": "barbeque sauce
+"},{"value": "barilla pasta shells
+"},{"value": "barney butter
+"},{"value": "bars ibarra chocolate
+"},{"value": "bars of chocolate
+"},{"value": "bartlett pears
+"},{"value": "basil
+"},{"value": "basil leave
+"},{"value": "basil leaves and cherry tomatoes
+"},{"value": "basil or parsley
+"},{"value": "basil or thai basil
+"},{"value": "basil pesto
+"},{"value": "basmati rice
+"},{"value": "batches bechamel sauce
+"},{"value": "bay leaf
+"},{"value": "bay leaves
+"},{"value": "bean cooking liquid
+"},{"value": "bean sprouts
+"},{"value": "beanilla mexican vanilla extract
+"},{"value": "beans
+"},{"value": "beef bones
+"},{"value": "beef broth
+"},{"value": "beef from the broth
+"},{"value": "beef meat  chuck
+"},{"value": "beef or other brown stock
+"},{"value": "beef sirloin
+"},{"value": "beer
+"},{"value": "beer or chicken broth
+"},{"value": "bell pepper
+"},{"value": "bell peppers
+"},{"value": "best eggnog
+"},{"value": "betty crocker golden vanilla super moist cake mix
+"},{"value": "betty crocker neon food colors in neon pink
+"},{"value": "betty crocker ready to spread white frosting
+"},{"value": "betty crocker supermoist white cake mix
+"},{"value": "betty crocker white cake mix
+"},{"value": "biscuit glaze
+"},{"value": "bisquick mix
+"},{"value": "bitter chocolate
+"},{"value": "bittersweet chocolate
+"},{"value": "bittersweet chocolate chip
+"},{"value": "bittersweet chocolate chips
+"},{"value": "black beans
+"},{"value": "black olive
+"},{"value": "black olive tapenade
+"},{"value": "black olives
+"},{"value": "black pepper
+"},{"value": "black pepper or crushed red pepper flakes
+"},{"value": "black sesame seeds
+"},{"value": "black sesame seeds for rolling and coarse sea salt
+"},{"value": "black tea
+"},{"value": "blackberries
+"},{"value": "blackstrap molasses
+"},{"value": "blemish free basil
+"},{"value": "blood orange
+"},{"value": "blood orange cure
+"},{"value": "blood oranges
+"},{"value": "blue cheese
+"},{"value": "blue cheese crumbles
+"},{"value": "blue cheese dressing
+"},{"value": "blueberries
+"},{"value": "bok choy or baby bok choy
+"},{"value": "boneless or bone in pork shoulder
+"},{"value": "boneless skinless chicken breasts
+"},{"value": "boston lettuce
+"},{"value": "bourbon
+"},{"value": "bowl of water
+"},{"value": "box puff pastry
+"},{"value": "branches of fresh thyme
+"},{"value": "bread
+"},{"value": "bread bowls
+"},{"value": "bread crumbs
+"},{"value": "bread crumbs or panko crumbs
+"},{"value": "bread flour
+"},{"value": "bread machine yeast
+"},{"value": "breadcrumbs
+"},{"value": "breakfast sausage
+"},{"value": "breast
+"},{"value": "breasts
+"},{"value": "brie
+"},{"value": "brioche or challah bread
+"},{"value": "brisket
+"},{"value": "broccoli
+"},{"value": "broccoli florets
+"},{"value": "broth or water
+"},{"value": "broth spices
+"},{"value": "brown rice
+"},{"value": "brown rice macaroni
+"},{"value": "brown rice or farro
+"},{"value": "brown rice syrup
+"},{"value": "brown sugar
+"},{"value": "brownie mix
+"},{"value": "brownies
+"},{"value": "brussels sprouts
+"},{"value": "bubble gum flavored vodka
+"},{"value": "buckwheat groats
+"},{"value": "buffalo hot wing sauce
+"},{"value": "bulb of fennel
+"},{"value": "bunch flat leaf spinach
+"},{"value": "burger buns
+"},{"value": "bushs cannellini beans
+"},{"value": "butter
+"},{"value": "butter and flour
+"},{"value": "butter flavored cooking spray
+"},{"value": "butter or ghee
+"},{"value": "butter or margarine
+"},{"value": "buttermilk
+"},{"value": "buttermilk or milk
+"},{"value": "butternut squash
+"},{"value": "butternut squash or cup canned butternut squash or canned pumpkin
+"},{"value": "butterscotch sauce
+"},{"value": "butterscotch schnapps
+"},{"value": "cabbage
+"},{"value": "cajun spice mix
+"},{"value": "cake flavored vodka
+"},{"value": "cake flour
+"},{"value": "cake mix
+"},{"value": "cake sprinkles
+"},{"value": "california avocados
+"},{"value": "can black beans
+"},{"value": "canadian bacon
+"},{"value": "candied ginger
+"},{"value": "candy canes
+"},{"value": "candy corns
+"},{"value": "candy melts
+"},{"value": "candy pumpkins
+"},{"value": "cane or brown sugar
+"},{"value": "cane sugar
+"},{"value": "cane sugar or brown sugar
+"},{"value": "cannellini beans
+"},{"value": "canola
+"},{"value": "canola oil
+"},{"value": "canola or neutral vegetable oil
+"},{"value": "canola or vegetable oil
+"},{"value": "capers
+"},{"value": "caramel
+"},{"value": "caramel candy squares
+"},{"value": "caramel ice cream topping
+"},{"value": "caramel sauce
+"},{"value": "cardamom
+"},{"value": "cardamom pods
+"},{"value": "carrot
+"},{"value": "carrots
+"},{"value": "casarecce
+"},{"value": "cashew nut butter
+"},{"value": "cashews
+"},{"value": "cauliflower
+"},{"value": "cauliflower florets
+"},{"value": "cayenne
+"},{"value": "cayenne pepper
+"},{"value": "celery
+"},{"value": "celery seed
+"},{"value": "celery seeds
+"},{"value": "celery stalk
+"},{"value": "celery stalks
+"},{"value": "chai tea concentrate
+"},{"value": "champagne
+"},{"value": "champagne extract
+"},{"value": "champagne vinegar
+"},{"value": "cheddar
+"},{"value": "cheddar cheese
+"},{"value": "cheddar jack shredded cheese
+"},{"value": "cheese
+"},{"value": "cheese ravioli or
+"},{"value": "cheese such as jack and cheddar
+"},{"value": "cheesecakes
+"},{"value": "cherries
+"},{"value": "cherries with
+"},{"value": "cherry jam
+"},{"value": "cherry or grape tomatoes
+"},{"value": "cherry or pear tomatoes
+"},{"value": "cherry soda
+"},{"value": "cherry tomatoes
+"},{"value": "cherry tomatoes or
+"},{"value": "cherrycampari tomatoes
+"},{"value": "chevre
+"},{"value": "chia seeds
+"},{"value": "chia seeds or
+"},{"value": "chicken
+"},{"value": "chicken bouillon granules
+"},{"value": "chicken bouillons
+"},{"value": "chicken breast
+"},{"value": "chicken breasts
+"},{"value": "chicken broth
+"},{"value": "chicken bullion
+"},{"value": "chicken cutlets
+"},{"value": "chicken fat or tbsp vegetable oil
+"},{"value": "chicken italian sausage
+"},{"value": "chicken lbs
+"},{"value": "chicken or vegetable broth
+"},{"value": "chicken or vegetable stock
+"},{"value": "chicken or veggie stock
+"},{"value": "chicken sausage
+"},{"value": "chicken stock
+"},{"value": "chicken stock or broth
+"},{"value": "chicken stock or low sodium chicken broth
+"},{"value": "chicken stock or water
+"},{"value": "chicken thighs
+"},{"value": "chicken wings
+"},{"value": "chickpea flour
+"},{"value": "chickpeas
+"},{"value": "chickpeas or garbanzo beans
+"},{"value": "chile flakes
+"},{"value": "chile paste
+"},{"value": "chile powder
+"},{"value": "chili
+"},{"value": "chili beans
+"},{"value": "chili garlic sauce or red chile flakes
+"},{"value": "chili oil
+"},{"value": "chili oil or sesame oil
+"},{"value": "chili peppers
+"},{"value": "chili powder
+"},{"value": "chili sauce
+"},{"value": "chinese black tea bags
+"},{"value": "chinese broccoli or regular common broccoli
+"},{"value": "chinese brown sugar
+"},{"value": "chinese five spice powder
+"},{"value": "chinese rice wine
+"},{"value": "chinese spice
+"},{"value": "chipotle
+"},{"value": "chipotle chile in adobo sauce
+"},{"value": "chipotle chili
+"},{"value": "chipotle chilis in adobo
+"},{"value": "chipotle chilis in adobo sauce
+"},{"value": "chipotle mayo
+"},{"value": "chipotle mora chiles
+"},{"value": "chipotle pepper
+"},{"value": "chipotle peppers in adobo sauce
+"},{"value": "chipotles in adobo sauce
+"},{"value": "chips ahoy cookies
+"},{"value": "chive or basil pesto
+"},{"value": "chives
+"},{"value": "chocolate
+"},{"value": "chocolate bar
+"},{"value": "chocolate bark
+"},{"value": "chocolate chip
+"},{"value": "chocolate chip cookie dough balls
+"},{"value": "chocolate chip cookie dough glazed doughnuts
+"},{"value": "chocolate chip cookie dough glazed steel cut oatmeal
+"},{"value": "chocolate chip cookie dough sandwiches
+"},{"value": "chocolate chips
+"},{"value": "chocolate chips or dark chocolate bar
+"},{"value": "chocolate chips or grated chocolate
+"},{"value": "chocolate chunk cookie mix
+"},{"value": "chocolate chunks
+"},{"value": "chocolate coated candies
+"},{"value": "chocolate cookie crumbs
+"},{"value": "chocolate covered peanut butter cups
+"},{"value": "chocolate filling
+"},{"value": "chocolate frosting
+"},{"value": "chocolate ice cream or chocolate sherbet
+"},{"value": "chocolate liqueur
+"},{"value": "chocolate or chocolate chips
+"},{"value": "chocolate peanut butter
+"},{"value": "chocolate porter or stout beer
+"},{"value": "chocolate pudding
+"},{"value": "chocolate pudding mix
+"},{"value": "chocolate shavings
+"},{"value": "chocolate syrup or chocolate sauce
+"},{"value": "chocolates or ounces bittersweet or semisweet chocolate
+"},{"value": "chuck
+"},{"value": "ciabatta bread
+"},{"value": "ciabatta or french bread
+"},{"value": "cider or white wine vinegar
+"},{"value": "cider vinegar
+"},{"value": "cilantro
+"},{"value": "cilantro avocado cream sauce
+"},{"value": "cilantro if youre feeling it
+"},{"value": "cilantro or parsley
+"},{"value": "cilantro or scallions
+"},{"value": "cilantro stems only
+"},{"value": "cilantro tops
+"},{"value": "cinnamon
+"},{"value": "cinnamon or allspice
+"},{"value": "cinnamon schnapps
+"},{"value": "cinnamon stick
+"},{"value": "cinnamon sugar
+"},{"value": "citronge or grand marnier
+"},{"value": "citrus simple syrup
+"},{"value": "classic mixed vegetables
+"},{"value": "clean spinach
+"},{"value": "cloves
+"},{"value": "club crackers
+"},{"value": "club soda
+"},{"value": "coarse or dijon mustard
+"},{"value": "coarse or kosher salt
+"},{"value": "cocoa
+"},{"value": "cocoa powder
+"},{"value": "cocoa powder like ghiardelli
+"},{"value": "cocoa powder mixed w
+"},{"value": "coconut
+"},{"value": "coconut coconut
+"},{"value": "coconut extract
+"},{"value": "coconut milk
+"},{"value": "coconut milk cream
+"},{"value": "coconut oil
+"},{"value": "coconut or table sugar
+"},{"value": "coconut sugar
+"},{"value": "coconut whipped cream
+"},{"value": "coffee
+"},{"value": "coffee ice cream
+"},{"value": "coffee liqueur
+"},{"value": "coffee substitute
+"},{"value": "cognac or brandy
+"},{"value": "cointreau
+"},{"value": "colored large crystal sugar
+"},{"value": "coloring
+"},{"value": "condensed milk
+"},{"value": "confectioners sugar
+"},{"value": "confections sugar
+"},{"value": "cookie crisp cereal
+"},{"value": "cookie dough
+"},{"value": "cookie dough freezer fudge
+"},{"value": "cookie dough ice cream
+"},{"value": "cooking oil
+"},{"value": "cooking spray
+"},{"value": "cooking spray or vegetableolive oil
+"},{"value": "cool whip
+"},{"value": "coriander
+"},{"value": "coriander seeds
+"},{"value": "corn
+"},{"value": "corn oil
+"},{"value": "corn or flour tortillas
+"},{"value": "corn starch
+"},{"value": "corn syrup
+"},{"value": "corn tortillas
+"},{"value": "cornflake crumbs
+"},{"value": "cornmeal
+"},{"value": "cornstarch
+"},{"value": "cornstarch mixed with
+"},{"value": "cottage cheese
+"},{"value": "country bread
+"},{"value": "crab meat
+"},{"value": "crackers or sliced baguette
+"},{"value": "cranberries
+"},{"value": "cranberry
+"},{"value": "cranberry juice cocktail
+"},{"value": "cranberry sauce
+"},{"value": "crave chocolate liqueur
+"},{"value": "cream
+"},{"value": "cream cheese
+"},{"value": "cream cheese frosting
+"},{"value": "cream of mushroom soup
+"},{"value": "cream of tartar
+"},{"value": "cream of tarter
+"},{"value": "cream soda
+"},{"value": "creme de cacao
+"},{"value": "creme fraiche
+"},{"value": "cremini mushrooms
+"},{"value": "crescent rolls
+"},{"value": "crispy rice cereal
+"},{"value": "croissants
+"},{"value": "cube steak
+"},{"value": "cucumber
+"},{"value": "cultured buttermilk
+"},{"value": "cumin
+"},{"value": "cup brown sugar
+"},{"value": "cup extra virgin olive oil plus tablespoon
+"},{"value": "cup gluten free flour
+"},{"value": "cup mild olive oil or vegetable oil
+"},{"value": "cup powdered almonds about ounces
+"},{"value": "cupcakes
+"},{"value": "cups  oz g cubed pumpkin or butternut squash
+"},{"value": "cups potatoes
+"},{"value": "cups powdered sugar
+"},{"value": "curd cottage cheese
+"},{"value": "currants
+"},{"value": "curry
+"},{"value": "curry powder
+"},{"value": "daiya cheese
+"},{"value": "dark brown sugar
+"},{"value": "dark chocolate
+"},{"value": "dark chocolate bar
+"},{"value": "dark chocolate chips
+"},{"value": "dark chocolate chipschunks
+"},{"value": "dark chocolate chunks
+"},{"value": "dark meat chicken
+"},{"value": "dashi granules
+"},{"value": "de stemmed and roughly chopped lacinato kale
+"},{"value": "deli counter american cheese
+"},{"value": "deli fried chicken
+"},{"value": "deli ham
+"},{"value": "deli swiss cheese
+"},{"value": "devils food cake mix
+"},{"value": "diamond walnuts
+"},{"value": "diced butternut squash
+"},{"value": "dijon mustard
+"},{"value": "dijon or a mustard
+"},{"value": "dill
+"},{"value": "dill pickle
+"},{"value": "dill pickle chips
+"},{"value": "dino kale
+"},{"value": "distilled white vinegar
+"},{"value": "double strength brewed coffee
+"},{"value": "double stuff oreos
+"},{"value": "dough
+"},{"value": "dr pepper
+"},{"value": "dulce de leche
+"},{"value": "dumpling wrappers
+"},{"value": "each gel or liquid food colors
+"},{"value": "each small peppermint candies
+"},{"value": "each wooden coffee stirrers
+"},{"value": "ease it away from the plastic onto the sugar covered countertop
+"},{"value": "easy cheeze sauce
+"},{"value": "egg
+"},{"value": "egg  yolk
+"},{"value": "egg beaters or egg whites
+"},{"value": "egg noodles
+"},{"value": "egg plus
+"},{"value": "egg roll wrappers
+"},{"value": "egg substitute or egg whites
+"},{"value": "egg whisked with
+"},{"value": "egg white
+"},{"value": "egg white plus
+"},{"value": "egg white whisked with
+"},{"value": "egg whites
+"},{"value": "egg whites cup
+"},{"value": "egg whites or egg beaters
+"},{"value": "egg yolk
+"},{"value": "egg yolks
+"},{"value": "eggplant
+"},{"value": "eggplant spread
+"},{"value": "eggplants
+"},{"value": "eggs
+"},{"value": "el paso less sodium taco seasoning mix
+"},{"value": "el paso refried beans
+"},{"value": "el paso salsa
+"},{"value": "el paso taco seasoning mix
+"},{"value": "elbow macaroni
+"},{"value": "emmentaler cheese
+"},{"value": "enchilada sauce
+"},{"value": "enchilada sauce or pasta sauce
+"},{"value": "english cucumber
+"},{"value": "english muffins split
+"},{"value": "espresso
+"},{"value": "evaporated milk
+"},{"value": "extract flavoring
+"},{"value": "farmers market carrots
+"},{"value": "farro or wheat berries
+"},{"value": "fat free cream of mushroom soup
+"},{"value": "fennel bulbs
+"},{"value": "fennel salt
+"},{"value": "fennel seeds
+"},{"value": "feta
+"},{"value": "feta cheese
+"},{"value": "fettuccine
+"},{"value": "fettuccine or linguine
+"},{"value": "figs
+"},{"value": "fingerling potatoes
+"},{"value": "fish
+"},{"value": "fish sauce
+"},{"value": "fish sauce or
+"},{"value": "flank
+"},{"value": "flank steak
+"},{"value": "flat leaf parsley
+"},{"value": "flat tonic water
+"},{"value": "flax seed
+"},{"value": "fleur de sel
+"},{"value": "fleur de sel or maldon sea salt flakes
+"},{"value": "flexible silicone mini muffin pan
+"},{"value": "flour
+"},{"value": "flour tortillas
+"},{"value": "fluff marshmallow spread
+"},{"value": "fluffy buttercream frosting
+"},{"value": "fontina
+"},{"value": "fontina cheese
+"},{"value": "fontina or gruyere
+"},{"value": "food color
+"},{"value": "food coloring
+"},{"value": "food coloring gel
+"},{"value": "food coloring if desired
+"},{"value": "food colors
+"},{"value": "food colors in
+"},{"value": "for the best tasting apple butter
+"},{"value": "frangelico liqueur
+"},{"value": "franks hot sauce
+"},{"value": "french baguette
+"},{"value": "french bread
+"},{"value": "french dressing
+"},{"value": "french fried onions
+"},{"value": "french roast coffee
+"},{"value": "frenchdeli rolls
+"},{"value": "fresh bean sprouts
+"},{"value": "fresh rosemary branches
+"},{"value": "freshly popped popcorn
+"},{"value": "fritos
+"},{"value": "frosting
+"},{"value": "frosting and sprinkles
+"},{"value": "fruit optional
+"},{"value": "fruit preserves
+"},{"value": "fudge
+"},{"value": "fudge topping
+"},{"value": "full graham crackers
+"},{"value": "fun da middles cupcakes
+"},{"value": "fun size twix candy bars
+"},{"value": "gala apples
+"},{"value": "garam masala
+"},{"value": "garbanzo beans
+"},{"value": "garlic
+"},{"value": "garlic bulbs
+"},{"value": "garlic clove
+"},{"value": "garlic cloves
+"},{"value": "garlic flesh
+"},{"value": "garlic powder
+"},{"value": "garlic salt
+"},{"value": "garnish  grapefruit
+"},{"value": "gel or liquid food colors
+"},{"value": "gelatin
+"},{"value": "gelatin dessert mix
+"},{"value": "gelatin or
+"},{"value": "gin
+"},{"value": "ginger
+"},{"value": "ginger ale
+"},{"value": "ginger snap cookie crumbs
+"},{"value": "ginger syrup
+"},{"value": "ginger with
+"},{"value": "gingersnap cookies
+"},{"value": "gnocchi
+"},{"value": "goat cheese
+"},{"value": "goat or feta cheese
+"},{"value": "gold medal all purpose flour
+"},{"value": "golden delicious apples
+"},{"value": "golden graham cereal
+"},{"value": "golden raisins
+"},{"value": "gooey white chocolate fluffernutter cake bars
+"},{"value": "gorgonzola or other blue cheese
+"},{"value": "gouda
+"},{"value": "graham cracker crumbs
+"},{"value": "graham crackers
+"},{"value": "graham crackers or maria cookies
+"},{"value": "grand marnier
+"},{"value": "granny smith apple
+"},{"value": "granny smith apples
+"},{"value": "granulated sugar
+"},{"value": "grape or cherry tomatoes
+"},{"value": "grape tomatoes
+"},{"value": "grapefruit juice
+"},{"value": "grapes
+"},{"value": "grapeseed or peanut oil
+"},{"value": "graviera or gruyere
+"},{"value": "gravy
+"},{"value": "greek olives
+"},{"value": "greek style yogurt
+"},{"value": "greek yogurt
+"},{"value": "greek yogurt or sour cream
+"},{"value": "green beans
+"},{"value": "green bell pepper
+"},{"value": "green bell peppers
+"},{"value": "green cabbage
+"},{"value": "green chile
+"},{"value": "green chile peppers
+"},{"value": "green chiles
+"},{"value": "green chilies
+"},{"value": "green lentils
+"},{"value": "green olives
+"},{"value": "green onion
+"},{"value": "green onion chopped cilantro
+"},{"value": "green onions
+"},{"value": "green or red onion
+"},{"value": "green peas
+"},{"value": "green pepper
+"},{"value": "green tea
+"},{"value": "grill seasoning or dry barbecue rub
+"},{"value": "grilled chicken breasts
+"},{"value": "grond cinnamon
+"},{"value": "ground beef
+"},{"value": "ground chicken
+"},{"value": "ground chuck
+"},{"value": "ground pork
+"},{"value": "ground sirloin
+"},{"value": "ground turkey breast
+"},{"value": "gruyere
+"},{"value": "gruyere cheese
+"},{"value": "gruyere or
+"},{"value": "guacamole
+"},{"value": "guinness
+"},{"value": "guinness beer
+"},{"value": "guinness draught
+"},{"value": "guinness stout
+"},{"value": "habanero chile
+"},{"value": "half and half
+"},{"value": "half and half cream
+"},{"value": "half and half or cream
+"},{"value": "half half
+"},{"value": "half half cream
+"},{"value": "half half or heavy cream
+"},{"value": "half n half
+"},{"value": "halloween sprinkles
+"},{"value": "ham
+"},{"value": "hamburger buns
+"},{"value": "harissa
+"},{"value": "harry david honey crisp apples
+"},{"value": "hass avocado
+"},{"value": "hass avocados
+"},{"value": "havarti cheese
+"},{"value": "havarti cheese with dill
+"},{"value": "hazelnut
+"},{"value": "hazelnut liqueur
+"},{"value": "hazelnut paste
+"},{"value": "hazelnut wafers
+"},{"value": "hazelnuts
+"},{"value": "head cabbage
+"},{"value": "heads broccoli
+"},{"value": "heart shaped cookie cutter
+"},{"value": "heart smart bisquick
+"},{"value": "heath toffee bits or chopped heath candy bars
+"},{"value": "heavy cream
+"},{"value": "heavy cream or buttermilk
+"},{"value": "heavy cream or creme fraiche
+"},{"value": "heavy cream or milk
+"},{"value": "heavy or whipping cream
+"},{"value": "heavy whipping cream
+"},{"value": "hellmanns or best foods real mayonnaise
+"},{"value": "hemp seed
+"},{"value": "hemp seeds
+"},{"value": "herbed goat cheese
+"},{"value": "herbs
+"},{"value": "herdez salsa or your favorite salsa
+"},{"value": "hershey bars
+"},{"value": "high gluten
+"},{"value": "hoisin sauce
+"},{"value": "holiday sprinkles
+"},{"value": "honey
+"},{"value": "honey like clover or orange
+"},{"value": "honey or agave nectar
+"},{"value": "horseradish
+"},{"value": "hot chocolate mix
+"},{"value": "hot fudge sauce
+"},{"value": "hot pepper
+"},{"value": "hot sauce
+"},{"value": "hummus
+"},{"value": "hunk of brie cheese
+"},{"value": "husked corn
+"},{"value": "ice
+"},{"value": "ice cream
+"},{"value": "ice cream time
+"},{"value": "ice cubes
+"},{"value": "ice water
+"},{"value": "iceberg lettuce
+"},{"value": "icing
+"},{"value": "inch cinnamon stick
+"},{"value": "inch cubes watermelon
+"},{"value": "inch pie crusts
+"},{"value": "inch thick rounds french bread
+"},{"value": "individual pizzas
+"},{"value": "instant coffee
+"},{"value": "instant coffee granule
+"},{"value": "instant coffee granules
+"},{"value": "instant yeast
+"},{"value": "irish whiskey
+"},{"value": "istant espresso
+"},{"value": "italian blend cheese
+"},{"value": "italian bread
+"},{"value": "italian chicken sausage
+"},{"value": "italian parsley
+"},{"value": "italian salad dressing
+"},{"value": "italian sausage
+"},{"value": "italian seasoned bread crumbs
+"},{"value": "italian seasoned breadcrumbs
+"},{"value": "italian seasoning
+"},{"value": "jack and cheddar cheese
+"},{"value": "jalapeno
+"},{"value": "jalapeno chiles
+"},{"value": "jalapeno chili
+"},{"value": "jalapeno cilantro yogurt spread
+"},{"value": "jalapeno pepper
+"},{"value": "jalapeno peppers
+"},{"value": "jalapenos
+"},{"value": "jam
+"},{"value": "kalamata olives
+"},{"value": "kale
+"},{"value": "kale leaves or spinach
+"},{"value": "ketchup
+"},{"value": "key lime
+"},{"value": "kidney beans
+"},{"value": "kirsch or cherry flavored liqueur
+"},{"value": "kiwi
+"},{"value": "kiwi fruit
+"},{"value": "kiwis
+"},{"value": "kix cereal
+"},{"value": "knox gelatin
+"},{"value": "knox powdered gelatin
+"},{"value": "korean fermented hot pepper paste
+"},{"value": "kosher or coarse sea salt
+"},{"value": "kosher or sea salt
+"},{"value": "kosher salt
+"},{"value": "kosher salt and black pepper
+"},{"value": "kosher salt and fresh cracked pepper
+"},{"value": "kosher salt and fresh pepper
+"},{"value": "kosher salt and freshly ground black pepper
+"},{"value": "kosher salt black pepper
+"},{"value": "kosher salt freshly ground black pepper
+"},{"value": "kosher saltfor the chili sauce
+"},{"value": "kraft caramels
+"},{"value": "lard or bacon drippings
+"},{"value": "lasagna noodles
+"},{"value": "lavender buds
+"},{"value": "lawrys seasoned salt
+"},{"value": "lb brisket a fatty cut is preferable
+"},{"value": "lb yukon gold potatoes
+"},{"value": "lean ground turkey
+"},{"value": "leeks
+"},{"value": "lemon
+"},{"value": "lemon juice
+"},{"value": "lemon juice  optional
+"},{"value": "lemon juice from
+"},{"value": "lemon or lime juice
+"},{"value": "lemon peel
+"},{"value": "lemon sauce
+"},{"value": "lemon twists
+"},{"value": "lemon wedges lemon
+"},{"value": "lemonade
+"},{"value": "lemonade concentrate
+"},{"value": "lemongrass
+"},{"value": "lemons
+"},{"value": "lentils
+"},{"value": "less fat philadelphia cream cheese
+"},{"value": "lettuce
+"},{"value": "lg cloves garlic
+"},{"value": "libbys pumpkin
+"},{"value": "light cream cheese
+"},{"value": "lightened up tahini lemon dressing
+"},{"value": "lime
+"},{"value": "lime juice
+"},{"value": "lime juice from
+"},{"value": "lime sherbet
+"},{"value": "limeade
+"},{"value": "limes
+"},{"value": "limoncello liqueur
+"},{"value": "linguine
+"},{"value": "liqueurs
+"},{"value": "liquid food coloring
+"},{"value": "litehouse lowfat caramel dip
+"},{"value": "little sweet peppers or green and red bell pepper
+"},{"value": "lodo red adobo or cayenne pepper
+"},{"value": "lollipops
+"},{"value": "longish red bell pepper
+"},{"value": "macaron batter
+"},{"value": "macaroni
+"},{"value": "mace or nutmeg
+"},{"value": "maldon sea salt
+"},{"value": "malted milk
+"},{"value": "manchego cheese
+"},{"value": "mango
+"},{"value": "mango chutney
+"},{"value": "maple flavoring
+"},{"value": "maple syrup
+"},{"value": "maraschino cherries
+"},{"value": "maraschino cherry
+"},{"value": "maraschino liqueur
+"},{"value": "marcona almonds
+"},{"value": "marcona almonds or lightly toasted slivered almonds
+"},{"value": "margarine
+"},{"value": "margarita mixer
+"},{"value": "marinara or pizza sauce
+"},{"value": "marinara sauce
+"},{"value": "marsala or kahlua
+"},{"value": "marshmallow creme
+"},{"value": "marshmallow fluffcreme
+"},{"value": "marshmallow infused cake vodka
+"},{"value": "marshmallow mix
+"},{"value": "marshmallows
+"},{"value": "masa harina
+"},{"value": "mascarpone cheese
+"},{"value": "matzohs
+"},{"value": "mayo
+"},{"value": "mayonnaise
+"},{"value": "mccormick gourmet ancho chile pepper
+"},{"value": "mccormick gourmet garlic salt
+"},{"value": "mccormick gourmet roasted saigon cinnamon
+"},{"value": "mccormick gourmet sicilian sea salt
+"},{"value": "medium stalks celery
+"},{"value": "medjool dates
+"},{"value": "meringue mushrooms
+"},{"value": "mexican cheese
+"},{"value": "mexican oregano
+"},{"value": "meyer rum
+"},{"value": "micro sprouts
+"},{"value": "milk
+"},{"value": "milk chocolate
+"},{"value": "milk chocolate bars
+"},{"value": "milk chocolate chips
+"},{"value": "milk chocolate couverture or coarsely chopped milk chocolate
+"},{"value": "milk or buttermilk
+"},{"value": "milk or cream
+"},{"value": "milk w egg yolk
+"},{"value": "mint
+"},{"value": "mirin
+"},{"value": "miso paste
+"},{"value": "miso paste or hoisin sauce
+"},{"value": "mix
+"},{"value": "mixed or button mushrooms
+"},{"value": "ml measure of dry vermouth
+"},{"value": "ml measures of good gin
+"},{"value": "mm speck tacular eggs
+"},{"value": "molasses
+"},{"value": "monterey jack
+"},{"value": "monterey jack cheese
+"},{"value": "monterrey jack cheese
+"},{"value": "mozzarella
+"},{"value": "mozzarella cheese
+"},{"value": "mozzarella string cheese
+"},{"value": "muenster cheese
+"},{"value": "mung bean sprouts
+"},{"value": "mung beans
+"},{"value": "muscovado or dark brown sugar
+"},{"value": "muscovado sugar
+"},{"value": "mushrooms
+"},{"value": "mushrooms such as cremini or
+"},{"value": "mustard
+"},{"value": "mustard powder
+"},{"value": "mustard seeds
+"},{"value": "my favourite hummus
+"},{"value": "myzithra
+"},{"value": "naan
+"},{"value": "naked apple butter
+"},{"value": "napa cabbage
+"},{"value": "naturally sweetened pineapple juice
+"},{"value": "nature valley oats n honey
+"},{"value": "navy beans
+"},{"value": "navycannellini beans
+"},{"value": "neck fillet of lamb
+"},{"value": "nestle dulce de leche
+"},{"value": "neutral oil
+"},{"value": "neutral vegetable oil
+"},{"value": "nigari tofu
+"},{"value": "no boil lasagna noodles
+"},{"value": "non dairy milk
+"},{"value": "nonpariels sprinkles
+"},{"value": "nut butter
+"},{"value": "nutella
+"},{"value": "nutella spread
+"},{"value": "nutmeg
+"},{"value": "nutritional yeast
+"},{"value": "nuts
+"},{"value": "nutter butter cookies
+"},{"value": "oat flour
+"},{"value": "oatmeal
+"},{"value": "oatmeal stout or other dark stout beer
+"},{"value": "oats
+"},{"value": "of brie
+"},{"value": "of fresh rosemary
+"},{"value": "of ile de france brie
+"},{"value": "of jarred caramel
+"},{"value": "of red pepper flakes
+"},{"value": "oil
+"},{"value": "oil or butter
+"},{"value": "old bay seasoning
+"},{"value": "olive oil
+"},{"value": "olive oil and fresh herbs
+"},{"value": "olive oil cooking spray
+"},{"value": "olive oil fried egg
+"},{"value": "olive oil non stick spray
+"},{"value": "olive oil or vegetable oil
+"},{"value": "olive oil spray
+"},{"value": "olive oil spray or olive oil
+"},{"value": "olive or another oil
+"},{"value": "olive or canola oil
+"},{"value": "olive or other vegetable oil
+"},{"value": "olive or safflower oil
+"},{"value": "olive or vegetable oil
+"},{"value": "on cilantro
+"},{"value": "onion
+"},{"value": "onion flakes
+"},{"value": "onion powder
+"},{"value": "onion salt
+"},{"value": "onions
+"},{"value": "or inch prebaked tart shell
+"},{"value": "or recipe sour cream mashed potatoes
+"},{"value": "or two of ground cayenne pepper
+"},{"value": "or two of nutmeg
+"},{"value": "or two of salt
+"},{"value": "orange
+"},{"value": "orange juice
+"},{"value": "orange juice from
+"},{"value": "orange liqueur
+"},{"value": "orange rind
+"},{"value": "orechiette
+"},{"value": "oregano
+"},{"value": "oreo
+"},{"value": "oreo cookies
+"},{"value": "oreos
+"},{"value": "organic low fat milk
+"},{"value": "ounces bacon
+"},{"value": "ounces dark chocolate
+"},{"value": "ounces tomato sauce
+"},{"value": "oyster sauce
+"},{"value": "oz brie cheese
+"},{"value": "oz chicken tenderloins
+"},{"value": "oz grated mozzarella
+"},{"value": "oz skinless salmon
+"},{"value": "oz strawberry flavor yoplait yogurt
+"},{"value": "packaged gnocchi
+"},{"value": "panko
+"},{"value": "panko bread crumbs
+"},{"value": "panko breadcrumbs
+"},{"value": "panko crumbs
+"},{"value": "panko or plain breadcrumbs
+"},{"value": "paprika
+"},{"value": "paprika toasts
+"},{"value": "parmesan
+"},{"value": "parmesan cheese
+"},{"value": "parmesan or romano cheese
+"},{"value": "parmigiano reggiano
+"},{"value": "parmigiano reggiano cheese
+"},{"value": "parsley
+"},{"value": "parsley or
+"},{"value": "parsley or cilantro
+"},{"value": "pasta
+"},{"value": "pasta bows
+"},{"value": "pasta shape
+"},{"value": "pasta shells
+"},{"value": "pasta water
+"},{"value": "pat of butter
+"},{"value": "peach
+"},{"value": "peach coulis
+"},{"value": "peaches
+"},{"value": "peanut butter
+"},{"value": "peanut butter chips
+"},{"value": "peanut butter cookie centers
+"},{"value": "peanut butter cup molds
+"},{"value": "peanut or vegetable oil
+"},{"value": "peanut sauce
+"},{"value": "peanuts
+"},{"value": "pear
+"},{"value": "pear brandy
+"},{"value": "pears
+"},{"value": "peas
+"},{"value": "pecan
+"},{"value": "pecans
+"},{"value": "pecans or shredded coconut
+"},{"value": "pecans or walnuts
+"},{"value": "pecorino cheese
+"},{"value": "pecorino romano
+"},{"value": "pecorino romano cheese
+"},{"value": "peel from an un waxed lemon or skewered olives
+"},{"value": "penne pasta
+"},{"value": "pepitas
+"},{"value": "pepper
+"},{"value": "pepper jack
+"},{"value": "pepper jack cheese
+"},{"value": "peppercorns
+"},{"value": "pepperfor the vegetables
+"},{"value": "peppermint candies
+"},{"value": "peppermint extract
+"},{"value": "peppermint oil
+"},{"value": "peppermint schnapps
+"},{"value": "pepperoni
+"},{"value": "peppers of various colors
+"},{"value": "percent agave tequila
+"},{"value": "pesto
+"},{"value": "philadelphia cream cheese
+"},{"value": "pho spices cinnamon stick
+"},{"value": "phyllo dough
+"},{"value": "picante sauce
+"},{"value": "picked flat leaf parsley or cilantro
+"},{"value": "pickled jalapeno
+"},{"value": "pickles
+"},{"value": "pickling cucumbers
+"},{"value": "pickling simple syrup
+"},{"value": "pickling spice
+"},{"value": "pico de gallo
+"},{"value": "pie crust
+"},{"value": "pillsbury crescent rolls
+"},{"value": "pillsbury grands refrigerated buttermilk biscuits
+"},{"value": "pillsbury one can pillsbury simply refrigerated biscuits
+"},{"value": "pillsbury pie crust
+"},{"value": "pillsbury pizza crust with
+"},{"value": "pimentos
+"},{"value": "pine nuts
+"},{"value": "pineapple
+"},{"value": "pineapple in
+"},{"value": "pineapple in pineapple juice
+"},{"value": "pineapple juice or orange juice
+"},{"value": "pineapple or orange juice
+"},{"value": "pineapple tidbits
+"},{"value": "pineapples
+"},{"value": "pink food coloring paste
+"},{"value": "pink grapefruit juice
+"},{"value": "pink lemonade
+"},{"value": "pinto or pinto type beans with their liquid
+"},{"value": "pistachio
+"},{"value": "pistachios
+"},{"value": "pita chips
+"},{"value": "pitas
+"},{"value": "pitas or soft buns
+"},{"value": "pizza dough
+"},{"value": "pizza sauce
+"},{"value": "plain or vanilla
+"},{"value": "plum tomato
+"},{"value": "plum tomatoes
+"},{"value": "poblano chiles
+"},{"value": "pomegranate
+"},{"value": "pomegranate seeds
+"},{"value": "pomodoro sauce or your favorite marinara sauce
+"},{"value": "popcorn
+"},{"value": "popped popcorn
+"},{"value": "poppy seeds
+"},{"value": "popsicle sticks
+"},{"value": "pork or vegetable broth
+"},{"value": "pork should
+"},{"value": "pork shoulder   to pounds
+"},{"value": "pork tenderloin
+"},{"value": "portobello mushroom caps
+"},{"value": "potato gnocchi
+"},{"value": "potato starch
+"},{"value": "potatoes
+"},{"value": "pouch betty crocker sugar cookie mix
+"},{"value": "pound chicken
+"},{"value": "pound plum tomatoes
+"},{"value": "pounds red skinned sweet potatoes
+"},{"value": "pounds spinach
+"},{"value": "powdered garlic
+"},{"value": "powdered sugar
+"},{"value": "powdered whole milk
+"},{"value": "pretzel rods
+"},{"value": "proof vodka
+"},{"value": "prosciutto
+"},{"value": "protein powder
+"},{"value": "provolone
+"},{"value": "prune filling
+"},{"value": "prunes
+"},{"value": "puff pastry
+"},{"value": "pulled pork
+"},{"value": "pumpkin
+"},{"value": "pumpkin or butternut squash
+"},{"value": "pumpkin pie spice
+"},{"value": "pumpkin puree
+"},{"value": "pumpkin seeds
+"},{"value": "pumpkin spice
+"},{"value": "pumpkin spice buttercream
+"},{"value": "pumpkin spice hershey kisses
+"},{"value": "pumpkinsquash
+"},{"value": "purchased puff pastry
+"},{"value": "queso fresco
+"},{"value": "queso fresco or ricotta salata
+"},{"value": "queso fresh cheese
+"},{"value": "quick active dry yeast
+"},{"value": "quick cucumber pickle
+"},{"value": "quick marinara sauce
+"},{"value": "quick rising yeast
+"},{"value": "quinoa
+"},{"value": "quinoa or brown rice
+"},{"value": "rainbow carrots
+"},{"value": "raisins
+"},{"value": "raisins and goji berries
+"},{"value": "raisins goji berries
+"},{"value": "ramen noodles
+"},{"value": "ranch dressing
+"},{"value": "raspberries
+"},{"value": "raspberries and lime
+"},{"value": "raspberry liqueur
+"},{"value": "really good vegetable stock
+"},{"value": "recipe by terresa murphy of la cucina di terresa
+"},{"value": "recipe pastry
+"},{"value": "recipes bittersweet chocolate frosting
+"},{"value": "red bell pepper
+"},{"value": "red bell peppers
+"},{"value": "red chile flakes
+"},{"value": "red chili flakes
+"},{"value": "red chili pepper
+"},{"value": "red chili powder
+"},{"value": "red lentils
+"},{"value": "red onion
+"},{"value": "red onion jam
+"},{"value": "red onions
+"},{"value": "red or white wine
+"},{"value": "red pepper
+"},{"value": "red pepper flakes
+"},{"value": "red pepper flakes or
+"},{"value": "red pepper flakes or cayenne pepper
+"},{"value": "red potatoes
+"},{"value": "red split lentils
+"},{"value": "red tomato
+"},{"value": "red wine
+"},{"value": "red wine vinegar
+"},{"value": "reduced carb whole wheat flour tortillas
+"},{"value": "reduced fat milk
+"},{"value": "reeses peanut butter cups
+"},{"value": "rendered bacon fat
+"},{"value": "reserved broth from chicken
+"},{"value": "reserved chicken broth from pot
+"},{"value": "reserved chicken poaching broth
+"},{"value": "reserved pumpkin
+"},{"value": "rice
+"},{"value": "rice cereal
+"},{"value": "rice flour
+"},{"value": "rice krispies cereal
+"},{"value": "rice milk or regular milk
+"},{"value": "rice noodles
+"},{"value": "rice sticks or rice vermicelli
+"},{"value": "rice vinegar
+"},{"value": "rice wine or sherry
+"},{"value": "rice wine vinegar
+"},{"value": "rice wine vinegar or lemon juice
+"},{"value": "ricotta
+"},{"value": "ricotta cheese
+"},{"value": "rigatoni
+"},{"value": "rigatoni pasta
+"},{"value": "roll
+"},{"value": "roll of pillsbury sugar cookie dough
+"},{"value": "roll of refrigerated french bread loaf
+"},{"value": "roll out refrigerated pie crust
+"},{"value": "roll refrigerated biscuit dough
+"},{"value": "rolled oats
+"},{"value": "roma tomato
+"},{"value": "roma tomatoes
+"},{"value": "romano cheese
+"},{"value": "root beer
+"},{"value": "rosemary
+"},{"value": "round rice paper wrappers
+"},{"value": "rum
+"},{"value": "rum extract
+"},{"value": "rum or teaspoon vanilla extract
+"},{"value": "rum or vodka
+"},{"value": "rum or whiskey
+"},{"value": "russet or yukon gold potatoes
+"},{"value": "russet potato
+"},{"value": "russet potatoes
+"},{"value": "rye flour
+"},{"value": "rye pie dough
+"},{"value": "safflower or vegetable oil
+"},{"value": "sage
+"},{"value": "sage or basil
+"},{"value": "salmon
+"},{"value": "salsa
+"},{"value": "salsa verde
+"},{"value": "salt
+"},{"value": "salt and black pepper
+"},{"value": "salt and coarse ground black pepper
+"},{"value": "salt and coarsely ground black pepper
+"},{"value": "salt and fresh black pepper
+"},{"value": "salt and fresh cracked pepper
+"},{"value": "salt and fresh ground black pepper
+"},{"value": "salt and fresh pepper
+"},{"value": "salt and freshly cracked black pepper
+"},{"value": "salt and freshly cracked pepper
+"},{"value": "salt and freshly ground black pepper
+"},{"value": "salt and freshly ground pepper
+"},{"value": "salt and ground black pepper
+"},{"value": "salt and ground pepper
+"},{"value": "salt and pepper
+"},{"value": "salt or
+"},{"value": "salt or teaspoons kosher salt
+"},{"value": "salt pepper
+"},{"value": "san marzano tomatoes
+"},{"value": "sandwich bread
+"},{"value": "sargento reduced fat provolone or mozzarella
+"},{"value": "sausage stuffing
+"},{"value": "scalding hot water
+"},{"value": "scallion
+"},{"value": "scallion green strips
+"},{"value": "scallions
+"},{"value": "scharffenberger cocoa powder
+"},{"value": "scrape half of the batter into
+"},{"value": "sea or kosher salt
+"},{"value": "sea or kosher salt and fresh black pepper
+"},{"value": "sea or kosher salt and fresh ground black pepper
+"},{"value": "sea or kosher salt and freshly ground black pepper
+"},{"value": "sea salt
+"},{"value": "sea salt and black pepper
+"},{"value": "sea salt and fresh black pepper
+"},{"value": "sea salt and fresh ground pepper
+"},{"value": "sea salt and freshly cracked pepper
+"},{"value": "sea salt and freshly ground black pepper
+"},{"value": "sea salt and pepper
+"},{"value": "sea salt freshly ground black pepper
+"},{"value": "sea salt or
+"},{"value": "sea salt or kosher salt
+"},{"value": "sea salt or table salt
+"},{"value": "sea scallops
+"},{"value": "seakosher salt or
+"},{"value": "seasoned salt
+"},{"value": "seasoning salt
+"},{"value": "seaweed noodles
+"},{"value": "section of fresh ginger
+"},{"value": "section of ginger
+"},{"value": "seedless watermelon
+"},{"value": "semi sweet chocolate
+"},{"value": "semi sweet chocolate chip
+"},{"value": "semi sweet chocolate chips
+"},{"value": "semi sweet or bittersweet chocolate
+"},{"value": "semi sweet or milk chocolate
+"},{"value": "semolina flour or cornmeal
+"},{"value": "serrano chile
+"},{"value": "sesame oil
+"},{"value": "sesame oilfor the rice
+"},{"value": "sesame seed buns
+"},{"value": "sesame seeds
+"},{"value": "shallot
+"},{"value": "shallots
+"},{"value": "shaoxing wine
+"},{"value": "sharp cheddar
+"},{"value": "shiitake mushrooms
+"},{"value": "shortening
+"},{"value": "shrimp
+"},{"value": "shrimp in their shells
+"},{"value": "sichuan peppercorn
+"},{"value": "silken organic tofu
+"},{"value": "silverblanco tequila
+"},{"value": "simple syrup
+"},{"value": "siracha chilli sauce
+"},{"value": "sized fresh tomatoes
+"},{"value": "skim milk
+"},{"value": "skim milk ricotta
+"},{"value": "skinless boneless chicken breasts
+"},{"value": "sli bacon
+"},{"value": "slightly larger pinch coriander
+"},{"value": "small bunch of kale
+"},{"value": "smirnoff kissed caramel flavored vodka
+"},{"value": "smithfield bacon
+"},{"value": "snow peas
+"},{"value": "soda water
+"},{"value": "solid pack pumpkin
+"},{"value": "sour apple liqueur
+"},{"value": "sour cream
+"},{"value": "sour cream or
+"},{"value": "sour dough bread
+"},{"value": "sourdough bread
+"},{"value": "sourdough or country white bread
+"},{"value": "soy milk
+"},{"value": "soy sauce
+"},{"value": "spaghetti
+"},{"value": "spaghetti or pasta
+"},{"value": "spaghetti sauce
+"},{"value": "spaghetti squash
+"},{"value": "spaghettipasta
+"},{"value": "spanish chorizo
+"},{"value": "spanish manchego cheese
+"},{"value": "spanish serrano ham
+"},{"value": "sparkling water
+"},{"value": "sparkling wine
+"},{"value": "sparkling wine or lemon flavored sparkling mineral water
+"},{"value": "speckly ripe banana
+"},{"value": "spice blend
+"},{"value": "spiced rum
+"},{"value": "spinach
+"},{"value": "spinach and mushroom
+"},{"value": "spinach or handful kale
+"},{"value": "spinach or kale
+"},{"value": "spinach or romaine lettuce
+"},{"value": "spiral shaped pasta
+"},{"value": "splashes of olive or peanut oil
+"},{"value": "split peas
+"},{"value": "spray oil
+"},{"value": "spray olive oil
+"},{"value": "sprouted garbanzo beans
+"},{"value": "sprouted mung beans
+"},{"value": "sriracha
+"},{"value": "sriracha chili sauce
+"},{"value": "sriracha hot sauce
+"},{"value": "sriracha or chili sauce
+"},{"value": "star anise
+"},{"value": "steak sauce
+"},{"value": "steel cut oatmeal
+"},{"value": "stick
+"},{"value": "stick butter
+"},{"value": "stick cinnamon
+"},{"value": "stick salted butter
+"},{"value": "stone ground or dijon mustard
+"},{"value": "stout
+"},{"value": "strawberries
+"},{"value": "strawberry
+"},{"value": "strawberry flavored gelatin dessert
+"},{"value": "strawberry jam
+"},{"value": "sucanat
+"},{"value": "sucanat or brown sugar
+"},{"value": "sugar
+"},{"value": "sugar plus
+"},{"value": "sugarpowdered sugar
+"},{"value": "sunflower seeds
+"},{"value": "superfine sugar
+"},{"value": "sushi rice
+"},{"value": "sweet basil or thin lime
+"},{"value": "sweet cherries
+"},{"value": "sweet italian sausage
+"},{"value": "sweet onion
+"},{"value": "sweet onions
+"},{"value": "sweet pickle relish
+"},{"value": "sweet potato
+"},{"value": "sweet potatoes
+"},{"value": "sweetener
+"},{"value": "swiss chard
+"},{"value": "swiss cheese
+"},{"value": "swiss or a mixture of swiss and parmesan cheese
+"},{"value": "tabasco
+"},{"value": "tabasco sauce
+"},{"value": "table salt
+"},{"value": "tablespoons chilled unsalted butter
+"},{"value": "tablespoons cold unsalted butter
+"},{"value": "tablespoons unsalted butter
+"},{"value": "taco seasoning
+"},{"value": "tahini
+"},{"value": "tahini paste
+"},{"value": "tahitian vanilla bean
+"},{"value": "tamari
+"},{"value": "tangerine or mandarin orange peel
+"},{"value": "tapioca pearls
+"},{"value": "tapioca starch or cornstarch
+"},{"value": "tarragon plus more
+"},{"value": "tater tots
+"},{"value": "tbsp butter
+"},{"value": "tempeh
+"},{"value": "tequila
+"},{"value": "thai chili sauce or hot sauce
+"},{"value": "thai curry paste
+"},{"value": "thai hot pepper
+"},{"value": "thai red curry paste
+"},{"value": "thai sweet chili sauce
+"},{"value": "thousand island dressing
+"},{"value": "thyme
+"},{"value": "thyme  and thyme flowers
+"},{"value": "toffee bits
+"},{"value": "tofu
+"},{"value": "tomato
+"},{"value": "tomato basil marinara sauce
+"},{"value": "tomato or two smaller tomatoes
+"},{"value": "tomato paste
+"},{"value": "tomato puree
+"},{"value": "tomato salas with chipotle and habanero chiles
+"},{"value": "tomato salsa
+"},{"value": "tomato sauce
+"},{"value": "tomato sauce or marinara sauce
+"},{"value": "tomatoes
+"},{"value": "tomatoes in
+"},{"value": "tomatoes or
+"},{"value": "tomatoes or sliced cherry tomatoes
+"},{"value": "tomatoes wchilies
+"},{"value": "tomatoes with mild green chilies
+"},{"value": "tomatoes with their
+"},{"value": "tonic water
+"},{"value": "topping
+"},{"value": "topping and rainbow sprinkles
+"},{"value": "tortilla
+"},{"value": "tortilla chips
+"},{"value": "tortilla wraps
+"},{"value": "tortillas
+"},{"value": "tri tip steaks
+"},{"value": "triple sec
+"},{"value": "truffle oil
+"},{"value": "turbinado sugar
+"},{"value": "turkey
+"},{"value": "turkey meat
+"},{"value": "turmeric
+"},{"value": "twix candy bars
+"},{"value": "udon noodles
+"},{"value": "unbaked pie crusts
+"},{"value": "unsliced white bread
+"},{"value": "unsulfured molasses
+"},{"value": "unsulphered molasses
+"},{"value": "unsweetened unflavoured almond milk
+"},{"value": "valrhona white chocolate
+"},{"value": "vanilla
+"},{"value": "vanilla almond milk
+"},{"value": "vanilla bean
+"},{"value": "vanilla bean ice cream
+"},{"value": "vanilla bean maple butter
+"},{"value": "vanilla bean or teaspoons vanilla extract
+"},{"value": "vanilla bean paste or pure vanilla
+"},{"value": "vanilla beans
+"},{"value": "vanilla extract
+"},{"value": "vanilla extract or
+"},{"value": "vanilla extract or teaspoon chocolate extract
+"},{"value": "vanilla extract or teaspoon vanilla paste
+"},{"value": "vanilla extract or vanilla bean paste
+"},{"value": "vanilla frosting
+"},{"value": "vanilla ice cream
+"},{"value": "vanilla instant pudding
+"},{"value": "vanilla instant pudding mix
+"},{"value": "vanilla pudding
+"},{"value": "vanilla vodka
+"},{"value": "vanilla wafer cookies
+"},{"value": "vanilla yogurt
+"},{"value": "veg oil
+"},{"value": "vegetable
+"},{"value": "vegetable broth
+"},{"value": "vegetable oil
+"},{"value": "vegetable or canola oil
+"},{"value": "vegetable or chicken broth
+"},{"value": "vegetable peeler
+"},{"value": "vegetable shortening
+"},{"value": "vegetable stock
+"},{"value": "velvet cake mix
+"},{"value": "very large or small zucchini
+"},{"value": "vietnamese pho spices
+"},{"value": "vinegar
+"},{"value": "vodka
+"},{"value": "waffles
+"},{"value": "walnut
+"},{"value": "walnut oil
+"},{"value": "walnuts
+"},{"value": "washed or bloomy rind semifirm cheese
+"},{"value": "water
+"},{"value": "water or beer
+"},{"value": "water or broth
+"},{"value": "water or fat free chicken broth
+"},{"value": "water or wine
+"},{"value": "watermelon
+"},{"value": "waxy potatoes
+"},{"value": "whipped cream
+"},{"value": "whipped cream and chocolate shavings
+"},{"value": "whipping cream
+"},{"value": "whiskey
+"},{"value": "whisky
+"},{"value": "white bean spread
+"},{"value": "white beans
+"},{"value": "white beer
+"},{"value": "white bread
+"},{"value": "white cake mix
+"},{"value": "white chocolate
+"},{"value": "white chocolate chips
+"},{"value": "white chocolate chips or high quality white chocolate bar
+"},{"value": "white chocolate instant pudding mix
+"},{"value": "white chocolate liqueur
+"},{"value": "white chocolate morsels
+"},{"value": "white chocolate peppermint mms
+"},{"value": "white miso
+"},{"value": "white onion
+"},{"value": "white onions
+"},{"value": "white or black pepper
+"},{"value": "white or crimini mushrooms
+"},{"value": "white pepper
+"},{"value": "white potatoes
+"},{"value": "white rice
+"},{"value": "white rice flour
+"},{"value": "white sandwich bread
+"},{"value": "white sugar
+"},{"value": "white vinegar
+"},{"value": "white wine
+"},{"value": "white wine or broth
+"},{"value": "white wine or chicken broth or vegetable broth
+"},{"value": "white wine or dry white vermouth
+"},{"value": "white wine vinegar
+"},{"value": "whole grain bread
+"},{"value": "whole milk
+"},{"value": "whole milk greek yogurt
+"},{"value": "whole milk mozzarella cheese
+"},{"value": "whole milk or half n half
+"},{"value": "whole milk ricotta
+"},{"value": "whole milk ricotta cheese
+"},{"value": "whole milk yogurt
+"},{"value": "whole or milk
+"},{"value": "whole wheat flour
+"},{"value": "whole wheat flour like king arthur flour
+"},{"value": "whole wheat flour torillas
+"},{"value": "whole wheat pastry flour
+"},{"value": "wild rice
+"},{"value": "wiltons candy melts white
+"},{"value": "wine vinegar
+"},{"value": "won ton wrappers
+"},{"value": "wonton wrappers
+"},{"value": "worcestershire sauce
+"},{"value": "x pan of warm rick krispie treats
+"},{"value": "yeast
+"},{"value": "yellow onion
+"},{"value": "yellow onions
+"},{"value": "yellow squash
+"},{"value": "yellow tomato
+"},{"value": "yogurt
+"},{"value": "yogurt or sour cream
+"},{"value": "you can add olive oil to taste if
+"},{"value": "you can also add apple juice or sweet apple cider
+"},{"value": "your choice of pasta
+"},{"value": "your desired fresh or dried herbs
+"},{"value": "your favorite brownie mix
+"},{"value": "your favorite ice cream
+"},{"value": "your favorite pizza dough we used this pizza dough recipe
+"},{"value": "your favorite regular or nonalcoholic beer
+"},{"value": "yukon gold potatoes
+"},{"value": "zaaatar or oregano
+"},{"value": "zucchini
+"},{"value": "zucchini cut in inch thick slices
